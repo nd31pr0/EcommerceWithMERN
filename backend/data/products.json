@@ -1,0 +1,47 @@
+ [
+    {
+        "name": "Sandisk ultra 128G SDXC UHS-I Memory Card up to 80MB/s",
+        "price":"45.89",
+        "description": "Ultra fast cards to take better pictures and full HD videos for personal use or cooperate use",
+        "ratings": 4.5,
+        "images": [{
+            "public_id": "products/tzfsnrli3szrdnb4jgge",
+            "url": "https://res.cloudary.com/shopit/image/upload/v1606231282/products/tzfsnrli3szrdnb4jgge.jpg"
+        }],
+        "category": "electronics",
+        "seller": "Ebay",
+        "stock": 50,
+        "numOfReviews": 32,
+        "reviews":[]
+    },
+    {
+        "name": "CAN USB FD Adapter",
+        "price":"315.89",
+        "description": "The drive is fast as well and is quite good for use having and extensive area of applicaiton fast cards to take better pictures and full HD videos for personal use or cooperate use",
+        "ratings": 3.5,
+        "images": [{
+            "public_id": "products/chairmount_nuubea",
+            "url": "https://res.cloudary.com/shopit/image/upload/v1606231282/products/chairmount_nuubea.jpg"
+        }],
+        "category": "Food",
+        "seller": "Amazon",
+        "stock": 1,
+        "numOfReviews": 12,
+        "reviews":[]  
+    },
+    {
+        "name": "USB memory stick/s",
+        "price":"25",
+        "description": "Flash drive for sale and in very good working conditione",
+        "ratings": 3.9,
+        "images": [{
+            "public_id": "products/tzfsnrli3szrdnb4jgge",
+            "url": "https://res.cloudary.com/shopit/image/upload/v1606231282/products/tzfsnrli3szrdnb4jgge.jpg"
+        }],
+        "category": "electronics",
+        "seller": "FB market place",
+        "stock": 130,
+        "numOfReviews": 18,
+        "reviews":[]
+    }
+ ]
